@@ -3,6 +3,8 @@
 
 ## ***Introduction**
 
+## introduction 
+
 - #### How People Access the Web
 - #### How Websites Are Created
 - #### How the Web Works
@@ -15,6 +17,8 @@
 ##### 3- The request is sent across the Internet to a special computer known as a **web server** which hosts the website
 ##### 4- The web server connect the requester to the wep page 
 ![How People Access the Web](https://media.vlpt.us/images/wonseok2877/post/ceb59090-5afc-4a5a-b67a-50d93fb96a3c/image.png)
+
+
 
 ### How Websites Are Created
 
@@ -157,3 +161,6 @@
 
 ## ***Process  & Design**
 ### This section discusses a process that you can use when you are creating a new website
+
+##### 4- The web server then sends the page you requested back to your web browser.
+
