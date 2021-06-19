@@ -3,7 +3,7 @@
 
 ## ***Introduction**
 
-## introduction 
+
 
 - #### How People Access the Web
 - #### How Websites Are Created
@@ -162,5 +162,72 @@
 ## ***Process  & Design**
 ### This section discusses a process that you can use when you are creating a new website
 
-##### 4- The web server then sends the page you requested back to your web browser.
+### Who is the Site For?
+#### Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
+
+### Why People Visit YOUR Website?
+#### Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason.
+
+### What Your Visitors are Trying to Achieve?
+#### First you want to create a list of reasons why people would be coming to your site
+
+### What Information Your Visitors Need?
+#### You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
+
+### Site Maps
+#### Now that you know what needs to appear on your site, you can start to organize the information into sections or pages.
+![Example Site Map](https://blog.hubspot.com/hs-fs/hubfs/dyno-mapper-sitemap-generator.png?width=566&name=dyno-mapper-sitemap-generator.png)
+
+
+### WireFrames
+#### A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+
+![Example wireframes](https://cdn-images.visual-paradigm.com/handbooks/agile-handbook/wireframe/02-newspaper-site-wireframe-example.png)
+
+##### ...........................................................................................................................
+# JAVASCRIPT
+## ***Introduction**
+## What is JavaScript?
+#### ***JavaScript*** (often shortened to ***JS***) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
+
+## How JavaScript makes web pages more interactive? 
+#### 1- ACCESS CONTENT: You can use JavaScript to select any element, attribute, or text from an HTML page.
+#### 2- MODIFY CONTENT: You can use JavaScript to add elements, attributes, and text to the page, or remove them.
+#### 3- PROGRAM RULES: You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page.
+#### 4- REACT TO EVENTS: You can specify that a script should run when a specific event has occurred.
+
+
+## ***The ABC of Programming**
+### Before you learn how to read and write the JavaScript language itself, you need to become familiar with some key concepts in computer programming. They will be covered in three sections:
+- #### A: What is a script and how do I creat one?
+- #### B: How do computers fit in with the world around them?
+- #### C: How do I write a script for a web page?
+
+
+### What is a script and how do I creat one?
+#### A script is a series of instructions that a computer can follow to achieve a goal.
+
+### WRITING A SCRIPT
+#### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it
+#### Start with the big picture of what you want to achieve, and break that down into smaller steps.
+
+### DEFINING A GOAL & DESIGNING THE SCRIPT
+#### Consider how you might approach a different type of script. 
+### SKETCHING OUT THE TASKS IN A FLOWCHART 
+#### Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
+
+![flowchart](https://i.stack.imgur.com/FvcwZ.jpg)
+### How do computers fit in with the world around them?
+#### COMPUTERS CREATE MODELS OF THE WORLD USING DATA
+
+### HOW A BROWSER SEES A WEB PAGE? 
+#### 1- RECEIVE A PAGE AS HTML CODE
+#### 2- CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY
+#### 3- USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
+
+### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?
+#### Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript.
+#### Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files.
+#### Each language forms a separate layer with a different purpose. Each layer, from left to right. builds on the previous one.
+
 
