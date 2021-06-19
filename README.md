@@ -1,7 +1,7 @@
 # Table of Contents 
 
 Number | Title 
------- | ------
+------- | -------
 1.0    | [HTML & CSS](https://nashatalzaatreh.github.io/reading-notes-201/class-01)
 1.1    | [Introduction](https://nashatalzaatreh.github.io/reading-notes-201/class-01#introduction)
 1.2    | [Structure](https://nashatalzaatreh.github.io/reading-notes-201/class-01#structure)
